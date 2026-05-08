@@ -201,6 +201,17 @@ body {
     align-items: center;
     gap: 40px;
 }
+#influence-container{
+    background: linear-gradient(135deg, rgba(0, 116, 217, 0.1), rgba(0, 0, 0, 0.8));
+    box-shadow: 0 0 20px white;
+    border: 1px solid var(--glass);
+    border-radius: 30px;
+    padding: 60px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 40px;
+}
 
 .inf-main {
     flex: 1;
